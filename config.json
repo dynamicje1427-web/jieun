@@ -1,0 +1,12 @@
+{
+  "accounts": [
+    {
+      "id": "sales",
+      "pw": "1234"
+    },
+    {
+      "id": "admin",
+      "pw": "admin"
+    }
+  ]
+}
